@@ -1,0 +1,4 @@
+﻿  IteratorPattern.cpp
+C:\Users\prabo\Desktop\appOne\appOne\IteratorPattern.cpp(27,32): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\prabo\Desktop\appOne\appOne\IteratorPattern.cpp(42,32): warning C4018: '>=': signed/unsigned mismatch
+  appOne.vcxproj -> C:\Users\prabo\Desktop\appOne\Debug\appOne.exe
